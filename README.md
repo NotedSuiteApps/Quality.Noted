@@ -1,8 +1,10 @@
 # Quality.Noted
 
-Release-readiness QA audits for Mac apps, run by your own Claude Code.
+**Your app has bugs. Find them before your users do.**
 
-Quality.Noted audits your Mac app's source code with Claude Code and tells you whether it's ready to release, on the Mac App Store, through Homebrew or as a direct download. You get a readiness score out of 100, findings ranked worst first, one prompt to fix them all, and a re-check that confirms your fixes in minutes.
+Release-readiness QA audits for Mac apps, run by your own Claude Code. Grounded in the seven ISTQB principles of software testing.
+
+Quality.Noted audits your Mac app's source code with Claude Code and tells you whether it's ready to release, on the Mac App Store, through Homebrew or as a direct download. You get a readiness score out of 100, findings ranked worst first, one prompt to fix them, and a re-check that confirms your fixes in minutes.
 
 - **Website:** https://quality.notedsuite.app
 - **Help:** https://quality.notedsuite.app/help
