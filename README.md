@@ -6,6 +6,8 @@ Release-readiness QA audits for Mac apps, run with your own Claude Code. Follows
 
 Quality.Noted audits your Mac app with Claude Code and gives you a readiness score out of 100, findings ranked worst first, one prompt to fix them, and a re-check that confirms your fixes in minutes.
 
+▶️ **[Watch the 70-second demo](https://www.youtube.com/watch?v=AopGq-H5DyU)**
+
 - **Website:** https://quality.notedsuite.app
 - **Help:** https://quality.notedsuite.app/help
 - **Support:** https://notedsuite.app/support
