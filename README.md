@@ -24,7 +24,7 @@ Builds are signed with a Developer ID certificate, notarized by Apple, and updat
 
 ## Requirements
 
-- macOS 14 Sonoma or later, on Apple silicon
+- macOS 26 Tahoe or later, on Apple silicon
 - [Claude Code](https://claude.com/claude-code), signed in, on your own Claude plan or API key
 
 ## Pricing
